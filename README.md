@@ -1,4 +1,4 @@
-## Hallo guys!! Ich heiẞe Sadie!
+## Hallo guys!! Ich heiẞe Yunik!
 
 - 🎓 Ich arbeite derzeit an einem Abschlussprojekt (TCC), das darauf abzielt, den Unterricht in Informatiklaboren zu verbessern.  
   Atualmente estou trabalhando em um projeto de TCC que visa melhorar o ensino em laboratórios de informática.  
