@@ -27,6 +27,7 @@
   <img align="center" alt="Yunik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yunik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Yunik-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+   <img align="right" alt ="gif" height="175" width="150" src="https://media.discordapp.net/attachments/1161011417789497505/1421998812628783167/giphy.gif?ex=68db1318&is=68d9c198&hm=f361913ba8790d003a8267e62f72dfc3c5260bafd6be6bce7410ac4e8693b451&="
 </div>
 
 ## 
