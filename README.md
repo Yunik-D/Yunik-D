@@ -5,13 +5,13 @@
 <div>
 
 🎓 Abschlussprojekt (TCC) – Verbesserung des Informatikunterrichts in Laboren.  
-📘 Lernt Deutsch und vertieft Kenntnisse in TypeScript.  
+📘 Lernt Deutsch und vertieft Kenntnisse in TypeScript und React.  
 💡 Ziel: Innovative Lösungen entwickeln und Wissen kontinuierlich erweitern.  
 
 ---
 
 🎓 Projeto de TCC – voltado para a melhoria do ensino em laboratórios de informática.  
-📘 Estudando Alemão e me aprofundando em TypeScript.  
+📘 Estudando Alemão e me aprofundando em TypeScript e React.  
 💡 Objetivo: Desenvolver soluções inovadoras e expandir continuamente meu conhecimento.  
 
 </div>
