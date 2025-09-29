@@ -42,7 +42,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yunik-D&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yunik-D&layout=compact&langs_count=16&theme=dark"/>
 <div>
-  
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yunik-D/Yunik-D/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yunik-D/Yunik-D/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yunik-D/Yunik-D/output/github-contribution-grid-snake.svg">
+<picture/>
+
  ---
 ✨ "Always learning, always coding." ✨
 
