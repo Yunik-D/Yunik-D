@@ -42,7 +42,6 @@
 <div> 
   <a href="https://instagram.com/d_lima16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:diogolima5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <img align="right" alt="gif" height="175" width="150" src="https://media.discordapp.net/attachments/1161011417789497505/1421998812628783167/giphy.gif">
 </div>
 
 ---
