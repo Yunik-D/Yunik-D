@@ -66,4 +66,4 @@
 
 ---
 
-✨ *"Always learning, always coding."* ✨
+<p align="center">✨ <em>"Always learning, always coding."</em> ✨</p>
