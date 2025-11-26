@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://media.discordapp.net/attachments/1161011417789497505/1421998812628783167/giphy.gif?ex=68db1318&is=68d9c198&hm=f361913ba8790d003a8267e62f72dfc3c5260bafd6be6bce7410ac4e8693b451&=" alt="gif" height="175" width="150">
+<img src="https://media.discordapp.net/attachments/1161011417789497505/1421998812628783167/giphy.gif?ex=6926e158&is=69258fd8&hm=c90a68b413bac4c3f041f071246e1e2c878e6b5af9d1f689b06b35bcb4a29d35&=" alt="gif" height="175" width="150">
 
 </div>
 
