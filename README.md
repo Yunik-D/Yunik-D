@@ -16,7 +16,7 @@
 
 </div>
 
-<img height="175" width="150" src="https://media.discordapp.net/attachments/1161011417789497505/1421998812628783167/giphy.gif?ex=6979efd8&is=69789e58&hm=8483eb08d0f9fa77f1d06409c807ec3e654b83f96e9c10cdff03b93a7e8437ae&=" alt="Chika Fujiwara Dance" >
+<img height="175" width="150" src="https://media1.tenor.com/m/d-LPcxZKJ2AAAAAd/chika-fujiwara-still-waiting.gif" alt="Chika Fujiwara Dance" >
 
 </div>
 
