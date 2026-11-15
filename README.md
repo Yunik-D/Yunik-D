@@ -49,9 +49,9 @@
 
 <div align="center">
 <img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yunik-D&show_icons=true&theme=tokyonight"/>
+src="https://github-stats-extended.vercel.app/api?username=Yunik-D&show_icons=true&theme=tokyonight"/>
 <img height="180em"
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yunik-D&layout=compact&langs_count=8&theme=tokyonight"/>
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yunik-D&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
