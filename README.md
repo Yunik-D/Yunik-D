@@ -24,9 +24,6 @@
 
 ## 🚀 Tech Stack
 
-
-### 🚀 Tech Stack
-
 **Frontend**
 
 <p>
@@ -56,7 +53,6 @@
   <img align="center" alt="Visual Studio" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </p>
 
-
 ---
 
 ## 🌐 Connect with me
@@ -64,6 +60,7 @@
 <div> 
   <a href="https://instagram.com/d_lima16" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="mailto:diogolima5328@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5511913615700" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 ---
